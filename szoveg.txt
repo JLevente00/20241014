@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Lorem Ipsum
+=======
+Hello World
+>>>>>>> feature/modified_greeting
